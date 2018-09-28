@@ -1,0 +1,120 @@
+/* ----------------------------------------------------------------
+   Responsive
+-----------------------------------------------------------------*/
+
+/* -------------------------------------------------------
+                     phone & tablet
+-------------------------------------------------------- */
+@media (max-width: 575px) {
+  .portfolio #sidebar h4 {
+    display: none;
+  }
+
+  .portfolio .filtering button {
+    display: inline-block;
+    padding: 0 15px;
+  }
+
+  .about .box-text .item {
+    width: 100%;
+  }
+}
+
+@media (max-width: 767px) {
+
+  .xs-mb-30{margin-bottom: 30px;}
+
+  .xs-mb-50{margin-bottom: 50px;}
+
+  svg.break-section-header {
+    display: none;
+  }
+
+  .header-top .header-container {
+    padding: 0 15px;
+    background-color: rgba(30, 30, 30, 0.95);
+  }
+  
+  .nav .inner .logo {
+    left: 15px;
+  }
+
+  .header .bg {
+    display: none;
+  }
+
+  .header:after {
+    opacity: .9;
+  }
+
+  .header .box-text h1 {
+    font-size: 34px;
+  }
+
+  .header .box-text h3 {
+    font-size: 22px;
+  }
+
+
+  .hire-me h2 {
+    font-size: 30px;
+  }
+
+  .about .box-info h5 {
+    font-size: 20px;
+  }
+
+}
+
+@media (max-width: 991px){
+
+  .sm-mb-30{margin-bottom: 30px;}
+
+  .sm-mb-50{margin-bottom: 50px;}
+
+  .header-top .header-container {
+    padding: 0 15px;
+  }
+  
+  .nav .inner .logo {
+    left: 15px;
+  }
+
+  .about .section-title {
+    text-align: left !important;
+  }
+
+  .header .box-text h1 {
+    font-size: 34px;
+  }
+
+  .about .box-info {
+    padding-top: 0;
+  }
+
+  .header-top .header-container {
+    background-color: rgba(30, 30, 30, 0.95);
+  }
+
+  .about .box-info h5 ,.about .box-text p {
+    padding-top: 0;
+  }
+
+  .about .box-img {
+    background: none;
+  }
+
+  .about .box-img img {
+    display: block;
+  }
+
+  .about .box-text .item {
+    padding-right: 30px;
+  }
+
+  .contact .follow-box {
+    display: none;
+  }
+  
+
+}
