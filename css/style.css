@@ -153,7 +153,7 @@ h4 {
 .section-title .content span {
   position: relative;
   display: block;
-  color: #D8B069;
+  color: red;
   font-size: 16px;
   letter-spacing: 2px;
   text-align: left;
@@ -168,7 +168,7 @@ h4 {
   bottom: 0;
   width: 70px;
   height: 1px;
-  background-color: #D8B069;
+  background-color: red;
 }
 
 .section-title .content h3 {
@@ -581,7 +581,7 @@ body.nav-active .nav__list-item:nth-child(6) {
 }
 
 .header .box-text h1 span {
-  color: #D8B069;
+  color: red;
 }
 
 .header .box-text h3 {
@@ -641,7 +641,7 @@ body.nav-active .nav__list-item:nth-child(6) {
   font-size: 24px;
   margin-bottom: 30px;
   padding-bottom: 10px;
-  color: #D8B069;
+  color: red;
 }
 
 .about h2::after {
@@ -703,7 +703,7 @@ body.nav-active .nav__list-item:nth-child(6) {
 }
 
 .about .box-text .item h5 {
-  color: #D8B069;
+  color: red;
   opacity: .8;
   font-size: 14px;
   font-weight: 500;
@@ -738,7 +738,7 @@ body.nav-active .nav__list-item:nth-child(6) {
   content: "";
   position: absolute;
   height: 1px;
-  background-color: #D8B069;
+  background-color: red;
   width: 100%;
   left: 0;
   bottom: 0;
@@ -764,7 +764,7 @@ body.nav-active .nav__list-item:nth-child(6) {
   content: "";
   position: absolute;
   height: 1px;
-  background-color: #D8B069;
+  background-color: red;
   width: 100%;
   left: 0;
   bottom: 0;
@@ -790,12 +790,12 @@ body.nav-active .nav__list-item:nth-child(6) {
 
 .about a:hover .inner-button:before {
   width: 100%;
-  background-color: #D8B069;
+  background-color: red;
 }
 
 .about a:hover .inner-button:after {
   width: 0;
-  background-color: #D8B069;
+  background-color: red;
 }
 
 .about .skills-item {
@@ -823,7 +823,7 @@ body.nav-active .nav__list-item:nth-child(6) {
   position: absolute;
   width: 0;
   height: 100%;
-  background-color: #D8B069;
+  background-color: red;
   -webkit-transition: all 3s;
   -o-transition: all 3s;
   transition: all 3s;
@@ -846,7 +846,7 @@ body.nav-active .nav__list-item:nth-child(6) {
   height: 0;
   border-left: 3px solid transparent;
   border-right: 3px solid transparent;
-  border-top: 5px solid #D8B069;
+  border-top: 5px solid red;
   position: absolute;
   top: -12px;
   right: -4px;
@@ -1019,7 +1019,7 @@ body.nav-active .nav__list-item:nth-child(6) {
   left: 0;
   width: 100%;
   height: 2px;
-  background-color: #D8B069;
+  background-color: red;
   z-index: 1;
 }
 
@@ -1028,7 +1028,7 @@ body.nav-active .nav__list-item:nth-child(6) {
 }
 
 .portfolio .sidebar__inner h4 {
-  color: #D8B069;
+  color: red;
 }
 
 .portfolio .gallery .item-img {
@@ -1260,7 +1260,7 @@ body.nav-active .nav__list-item:nth-child(6) {
   width: 5px;
   height: 5px;
   border-radius: 50%;
-  background-color: #D8B069;
+  background-color: red;
 }
 
 .blog .blog-item .text .meta a {
@@ -1336,7 +1336,7 @@ body.nav-active .nav__list-item:nth-child(6) {
 
 .contact .contact-box .form .form-group .help-block li {
   margin-top: 10px;
-  color: #D8B069;
+  color: red;
 }
 
 .contact .contact-box .form .form-group ::-webkit-input-placeholder {
@@ -1416,7 +1416,7 @@ body.nav-active .nav__list-item:nth-child(6) {
   -webkit-transform: scaleX(0.01) translateZ(0);
   transform: scaleX(0.01) translateZ(0);
   z-index: 1;
-  background-color: #D8B069;
+  background-color: red;
   width: 100%;
   height: 100%;
   transition: -webkit-transform .3s;
@@ -1536,7 +1536,7 @@ body.nav-active .nav__list-item:nth-child(6) {
 .contact .follow-box .follow-box-wrapper .follow-box-container .SocialList li {
   display: block;
   padding: 4px 10px;
-  color: #D8B069;
+  color: red;
   font-weight: 400;
   margin-bottom: 5px;
 }
@@ -1551,7 +1551,7 @@ body.nav-active .nav__list-item:nth-child(6) {
 }
 
 .contact .follow-box .follow-box-wrapper .follow-box-container .SocialList li:hover {
-  background-color: #D8B069;
+  background-color: red;
   color: #fff;
 }
 
