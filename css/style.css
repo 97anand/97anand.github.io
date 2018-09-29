@@ -10,8 +10,8 @@
   Version: 1.0
 
   Main Color: #dd0a35
-  Body copy: Poppins
-  Headers: Playfair Display
+  Body copy: Raleway
+  Headers: Raleway
 
 -------------------------------------------------------------------*/
 /*------------------------------------------------------------------
@@ -47,9 +47,9 @@ body {
   overflow-x: hidden;
   background: rgba(0, 0, 0, 0.92) url(../img/bg-over.png) repeat 0 0;
   color: #f8f8f8;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 400;
-  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 100;
+  font-size: 10px;
 }
 
 p {
@@ -72,7 +72,7 @@ h1,
 h2,
 h3,
 h4 {
-  font-family: 'Playfair Display', serif;
+  font-family: 'Raleway', serif;
   color: #fff;
 }
 
